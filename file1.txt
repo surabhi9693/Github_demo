@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 update in feature branch
 new change
+Changes done by Dev a
 =======
 <<<<<<< HEAD
 Update change 
