@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Update change 
+=======
+new chmage 
+
+>>>>>>> Feature1
+Chnages done 
+
