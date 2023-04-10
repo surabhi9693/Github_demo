@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 update in feature branch
 new change
+=======
+<<<<<<< HEAD
+Update change 
+=======
+new chmage 
+
+>>>>>>> Feature1
+Chnages done 
+
+>>>>>>> 54a4518ca6eafce0827e08816c281d40ceba6520
