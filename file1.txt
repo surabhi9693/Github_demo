@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-update in feature branch
+
 new chnge -Changes done by Dev a
-=======
-<<<<<<< HEAD
-Update change 
-=======
+update change 
 Update change == few more chnage
 
-new chmage 
-
->>>>>>> Feature1
-Chnages done 
