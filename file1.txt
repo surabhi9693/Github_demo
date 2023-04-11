@@ -1,14 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 update in feature branch
-new change
-Changes done by Dev a
+new chnge -Changes done by Dev a
 =======
 <<<<<<< HEAD
 Update change 
 =======
+Update change == few more chnage
+
 new chmage 
 
 >>>>>>> Feature1
 Chnages done 
-
->>>>>>> 54a4518ca6eafce0827e08816c281d40ceba6520
