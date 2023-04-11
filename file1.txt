@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-Update change 
-=======
-new chmage 
-
->>>>>>> Feature1
-Chnages done 
-
+Changes done in master
